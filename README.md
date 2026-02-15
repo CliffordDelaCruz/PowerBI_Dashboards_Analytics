@@ -34,7 +34,8 @@ Power BI Mobile App:
 
 1. Power BI Service
 2. Sharepoint
-3. Data Visualization
+3. Data Cleaning
+4. Data Visualization
 ***
 ### AdventureWorks
 ### Report Link : https://app.powerbi.com/view?r=eyJrIjoiZDk3ZWI1OTktMGMzZC00YWI2LTk2MTktZTI1MGJmNWYyOGY0IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D&pageName=ReportSection
@@ -108,7 +109,8 @@ link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main
 This is to show the analysis done on Jeopary dataset, containing different questions asked in the game Jeopardy.
 #### Skills used:
 1. Python
-2. Pandas library
+2. Data Cleaning
+3. Pandas library
 ***
 ### Page Visits Funnel - Data Analysis (Jupyter Notebook)
 link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/Page_Visits_Funnel_Project/Page_Visits_Funnel_Project/Page_Funnel_Visits.ipynb
@@ -116,7 +118,8 @@ link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main
 This is to show the analysis done on different datasets containing different stages of t-shirt purchase which were combined together to perform analysis
 #### Skills used:
 1. Python
-2. Pandas library
+2. Data Cleaning
+3. Pandas library
 ***
 ### US Medical Insurance - Data analysis (Jupyter Notebook)
 link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/python_US_Medical_Insurance_analysis/python-portfolio-project-starter-files/us-medical-insurance-costs.ipynb
@@ -132,5 +135,5 @@ link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/tree/main
 This is to show the data analysis done in Zomato data (sample)  
 #### Skills used:  
 1. Python (pandas, matplotlib, seaborn)  
-2. CSV library
+2. Data Cleaning
 ***
