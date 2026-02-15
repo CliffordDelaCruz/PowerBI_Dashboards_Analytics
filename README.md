@@ -136,4 +136,5 @@ This is to show the data analysis done in Zomato data (sample)
 #### Skills used:  
 1. Python (pandas, matplotlib, seaborn)  
 2. Data Cleaning
+3. Exploratory Data Analysis
 ***
