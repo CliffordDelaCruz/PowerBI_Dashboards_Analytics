@@ -23,6 +23,8 @@ This repository is created to show the PowerBI Dashboards I have created.
 ### Dashboard Link: https://app.powerbi.com/groups/me/reports/3853101a-fdae-4d69-b993-03ad1fd65088/6f864078367754dee295?experience=power-bi
 This dashboard shows the comparison of top-rated ramen brands, countries with most top-ratings, and countries with most ramen product types.
 
+<img width="1392" height="772" alt="Ramen_rating_dashboard" src="https://github.com/user-attachments/assets/3024962d-d187-4b72-b410-46639dca2873" />
+
 
 
 ### Maven Inspections
