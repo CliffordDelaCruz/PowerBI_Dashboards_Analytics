@@ -18,6 +18,13 @@ Skills used:
 # Power BI Dashboards and Reports
 This repository is created to show the PowerBI Dashboards I have created.
 ***
+
+### Ramen Rating Dashboard
+### Dashboard Link: https://app.powerbi.com/groups/me/reports/3853101a-fdae-4d69-b993-03ad1fd65088/6f864078367754dee295?experience=power-bi
+This dashboard shows the comparison of top-rated ramen brands, countries with most top-ratings, and countries with most ramen product types.
+
+
+
 ### Maven Inspections
 ### Dashboard Link: https://app.powerbi.com/groups/fa2d892a-1532-45ac-a1d2-4e6b496bd8f4/dashboards/4d88f3eb-6f85-432d-9f01-e33cdc158ffa?ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3&pbi_source=linkShare
 ### Report Link: https://app.powerbi.com/view?r=eyJrIjoiNGM0MmNjYzMtZDZkYy00MzFkLWJlNjEtZDYyMjEyY2IwZGM2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
