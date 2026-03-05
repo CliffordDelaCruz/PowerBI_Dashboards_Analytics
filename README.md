@@ -32,6 +32,17 @@ This dashboard shows the comparison of top-rated ramen brands, countries with mo
 
 Reference folder: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/tree/main/ramen_rating
 
+### Retail data analysis (SQL+Pandas)  
+This is to show a sample loading of data from SQL database to a pandas dataframe, and perform data exploration, data visualization and data export
+
+<img width="1916" height="932" alt="code_02" src="https://github.com/user-attachments/assets/1b3a2627-dfca-49fa-9aaf-32732c21af62" />
+
+#### Skills used:
+1. SQL
+2. Data exploration and analysis - used python
+
+Reference folder: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/tree/main/retail%20sql%20pandas
+
 ### Maven Inspections
 ### Dashboard Link: https://app.powerbi.com/groups/fa2d892a-1532-45ac-a1d2-4e6b496bd8f4/dashboards/4d88f3eb-6f85-432d-9f01-e33cdc158ffa?ctid=5548aca8-9ba6-49cc-8253-00c38168d3a3&pbi_source=linkShare
 ### Report Link: https://app.powerbi.com/view?r=eyJrIjoiNGM0MmNjYzMtZDZkYy00MzFkLWJlNjEtZDYyMjEyY2IwZGM2IiwidCI6IjU1NDhhY2E4LTliYTYtNDljYy04MjUzLTAwYzM4MTY4ZDNhMyIsImMiOjEwfQ%3D%3D
