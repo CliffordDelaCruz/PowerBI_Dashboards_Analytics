@@ -26,7 +26,7 @@ This dashboard shows the comparison of top-rated ramen brands, countries with mo
 <img width="1392" height="772" alt="Ramen_rating_dashboard" src="https://github.com/user-attachments/assets/3024962d-d187-4b72-b410-46639dca2873" />
 
 #### Skills used:
-1. Data Cleaning - used python do load the original file and performed data cleaning
+1. Data Cleaning - used python to load the original file and performed data cleaning
 2. Data Analysis
 3. Data loading and transformation - used PowerBI
 
