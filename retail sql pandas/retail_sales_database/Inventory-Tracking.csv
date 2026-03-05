@@ -1,0 +1,501 @@
+ProductID,ProductName,QuantityInStock,ReorderPoint,Supplier,SupplierContact,LeadTime,StorageLocation,UnitCost
+P98420,Monitor,97,81,Global Parts,global parts@example.com,17,WH-5,174.13
+P70372,Monitor,229,32,SupplyCo,supplyco@example.com,19,WH-4,91.07
+P54851,Laptop,15,72,Global Parts,global parts@example.com,13,WH-5,179.93
+P89338,Tablet,35,56,Global Parts,global parts@example.com,21,WH-2,159.55
+P76449,Chair,442,64,DirectGoods,directgoods@example.com,8,WH-4,2.02
+P43919,Laptop,99,79,SupplyCo,supplyco@example.com,6,WH-5,116.17
+P49408,Laptop,286,33,WarePlus,wareplus@example.com,17,WH-3,157.27
+P89124,Monitor,228,45,Global Parts,global parts@example.com,18,WH-5,3.93
+P47947,Tablet,54,99,WarePlus,wareplus@example.com,11,WH-3,102.09
+P35719,Printer,396,84,WarePlus,wareplus@example.com,17,WH-4,147.57
+P26057,Desk,163,44,Global Parts,global parts@example.com,17,WH-5,155.35
+P62279,Printer,445,80,SupplyCo,supplyco@example.com,20,WH-1,4.07
+P77428,Chair,437,83,WarePlus,wareplus@example.com,11,WH-2,128.82
+P86485,Chair,301,27,Global Parts,global parts@example.com,10,WH-4,66.48
+P60361,Tablet,16,70,DirectGoods,directgoods@example.com,3,WH-1,182.34
+P65633,Printer,176,53,SupplyCo,supplyco@example.com,15,WH-2,68.77
+P17585,Tablet,186,76,WarePlus,wareplus@example.com,9,WH-4,47.17
+P71068,Printer,229,72,WarePlus,wareplus@example.com,15,WH-3,96.59
+P29554,Phone,444,33,DirectGoods,directgoods@example.com,4,WH-4,5.48
+P99352,Desk,405,34,WarePlus,wareplus@example.com,17,WH-3,92.46
+P81659,Desk,132,33,Global Parts,global parts@example.com,10,WH-1,60.53
+P78321,Desk,485,64,DirectGoods,directgoods@example.com,6,WH-1,194.42
+P53762,Desk,68,39,WarePlus,wareplus@example.com,13,WH-3,176.51
+P57768,Tablet,304,30,SupplyCo,supplyco@example.com,15,WH-5,74.44
+P36411,Phone,171,60,DirectGoods,directgoods@example.com,4,WH-4,112.65
+P50133,Monitor,1,55,WarePlus,wareplus@example.com,12,WH-3,18.69
+P99281,Phone,322,73,SupplyCo,supplyco@example.com,9,WH-1,168.96
+P69659,Phone,291,53,SupplyCo,supplyco@example.com,10,WH-3,161.77
+P21237,Monitor,385,57,Global Parts,global parts@example.com,10,WH-1,169.39
+P20593,Tablet,285,48,DirectGoods,directgoods@example.com,20,WH-2,155.59
+P89248,Phone,253,42,DirectGoods,directgoods@example.com,11,WH-4,175.7
+P72326,Monitor,374,50,DirectGoods,directgoods@example.com,6,WH-2,156.4
+P60678,Laptop,221,67,WarePlus,wareplus@example.com,19,WH-3,2.8
+P82988,Tablet,476,99,SupplyCo,supplyco@example.com,17,WH-1,175.08
+P96720,Chair,73,33,WarePlus,wareplus@example.com,6,WH-4,116.8
+P81820,Phone,367,81,DirectGoods,directgoods@example.com,14,WH-1,77.84
+P21469,Monitor,314,90,SupplyCo,supplyco@example.com,8,WH-2,94.12
+P98261,Phone,38,43,SupplyCo,supplyco@example.com,14,WH-1,177.72
+P96491,Chair,423,51,WarePlus,wareplus@example.com,21,WH-2,154.86
+P53581,Chair,447,99,Global Parts,global parts@example.com,9,WH-4,28.72
+P61869,Monitor,379,66,WarePlus,wareplus@example.com,18,WH-3,67.36
+P13049,Chair,479,38,DirectGoods,directgoods@example.com,21,WH-5,46.56
+P53476,Printer,14,72,SupplyCo,supplyco@example.com,21,WH-2,104.55
+P21452,Phone,223,45,Global Parts,global parts@example.com,11,WH-4,199.86
+P22282,Printer,82,98,Global Parts,global parts@example.com,8,WH-2,183.72
+P90077,Laptop,439,33,Global Parts,global parts@example.com,18,WH-5,81.16
+P66075,Chair,430,73,SupplyCo,supplyco@example.com,9,WH-3,142.2
+P28229,Chair,391,79,Global Parts,global parts@example.com,14,WH-1,12.09
+P30189,Phone,156,38,DirectGoods,directgoods@example.com,16,WH-5,42.39
+P40753,Tablet,61,96,WarePlus,wareplus@example.com,9,WH-2,132.96
+P79024,Monitor,342,73,SupplyCo,supplyco@example.com,5,WH-5,56.11
+P64097,Monitor,56,44,WarePlus,wareplus@example.com,7,WH-3,87.04
+P91290,Phone,38,35,DirectGoods,directgoods@example.com,7,WH-1,31.88
+P89679,Laptop,115,81,SupplyCo,supplyco@example.com,4,WH-4,31.74
+P97579,Monitor,480,91,SupplyCo,supplyco@example.com,19,WH-1,79.51
+P86569,Tablet,327,97,SupplyCo,supplyco@example.com,7,WH-1,7.41
+P36228,Monitor,119,96,SupplyCo,supplyco@example.com,12,WH-1,28.11
+P59481,Monitor,444,21,DirectGoods,directgoods@example.com,19,WH-3,124.11
+P95465,Monitor,472,27,SupplyCo,supplyco@example.com,7,WH-1,101.98
+P15363,Monitor,219,41,SupplyCo,supplyco@example.com,13,WH-5,165.74
+P93982,Laptop,192,73,WarePlus,wareplus@example.com,21,WH-1,87.57
+P89709,Laptop,334,76,Global Parts,global parts@example.com,9,WH-4,33.2
+P18377,Phone,172,74,WarePlus,wareplus@example.com,17,WH-3,75.89
+P63795,Phone,237,51,SupplyCo,supplyco@example.com,5,WH-3,155.84
+P94159,Tablet,284,92,SupplyCo,supplyco@example.com,21,WH-5,175.11
+P80935,Chair,320,63,WarePlus,wareplus@example.com,5,WH-1,15.35
+P14492,Chair,247,77,Global Parts,global parts@example.com,6,WH-2,181.66
+P90228,Laptop,102,64,SupplyCo,supplyco@example.com,16,WH-3,41.27
+P28816,Desk,437,89,DirectGoods,directgoods@example.com,18,WH-4,76.07
+P42064,Phone,336,25,SupplyCo,supplyco@example.com,11,WH-2,177.48
+P83338,Desk,406,57,DirectGoods,directgoods@example.com,15,WH-3,119.65
+P23615,Tablet,214,91,WarePlus,wareplus@example.com,9,WH-1,95.8
+P61681,Desk,108,56,WarePlus,wareplus@example.com,18,WH-5,130.58
+P77280,Monitor,48,84,WarePlus,wareplus@example.com,18,WH-4,93.7
+P87710,Printer,182,77,SupplyCo,supplyco@example.com,6,WH-3,61.7
+P51358,Printer,114,49,SupplyCo,supplyco@example.com,5,WH-4,121.15
+P50938,Chair,432,62,DirectGoods,directgoods@example.com,13,WH-1,75.58
+P61586,Phone,412,79,SupplyCo,supplyco@example.com,6,WH-1,166.89
+P86149,Desk,47,52,SupplyCo,supplyco@example.com,19,WH-1,153.73
+P99637,Printer,354,59,DirectGoods,directgoods@example.com,6,WH-4,179.44
+P14743,Monitor,197,67,SupplyCo,supplyco@example.com,19,WH-4,51.97
+P83525,Monitor,472,36,WarePlus,wareplus@example.com,18,WH-2,30.38
+P29383,Phone,346,97,DirectGoods,directgoods@example.com,11,WH-4,189.29
+P99435,Monitor,280,77,Global Parts,global parts@example.com,11,WH-5,143.98
+P16521,Printer,89,66,WarePlus,wareplus@example.com,21,WH-4,128.14
+P76863,Printer,196,33,DirectGoods,directgoods@example.com,20,WH-3,154.85
+P17914,Laptop,384,28,DirectGoods,directgoods@example.com,8,WH-2,90.79
+P85266,Printer,441,36,WarePlus,wareplus@example.com,10,WH-4,58.59
+P37819,Desk,488,27,SupplyCo,supplyco@example.com,21,WH-5,105.25
+P74661,Laptop,313,35,SupplyCo,supplyco@example.com,6,WH-5,190.59
+P69562,Chair,488,77,Global Parts,global parts@example.com,6,WH-2,36.92
+P55946,Laptop,317,91,WarePlus,wareplus@example.com,12,WH-4,103.62
+P15639,Printer,54,91,WarePlus,wareplus@example.com,16,WH-4,180.56
+P50983,Chair,73,24,Global Parts,global parts@example.com,19,WH-5,140.12
+P93086,Desk,64,36,SupplyCo,supplyco@example.com,3,WH-1,24.54
+P14686,Printer,261,89,SupplyCo,supplyco@example.com,12,WH-2,172.77
+P47358,Phone,11,22,WarePlus,wareplus@example.com,18,WH-4,149.95
+P37592,Desk,321,61,SupplyCo,supplyco@example.com,13,WH-2,154.34
+P73701,Printer,37,71,DirectGoods,directgoods@example.com,17,WH-2,42.11
+P24111,Laptop,15,66,Global Parts,global parts@example.com,11,WH-3,125.01
+P66581,Laptop,277,88,WarePlus,wareplus@example.com,5,WH-3,96.67
+P55379,Printer,23,34,Global Parts,global parts@example.com,17,WH-4,71.82
+P12102,Printer,43,77,DirectGoods,directgoods@example.com,13,WH-1,153.81
+P42098,Monitor,246,67,Global Parts,global parts@example.com,8,WH-3,170.3
+P39669,Chair,493,54,Global Parts,global parts@example.com,11,WH-4,191.08
+P19114,Printer,82,68,DirectGoods,directgoods@example.com,5,WH-3,101.97
+P98289,Chair,125,48,WarePlus,wareplus@example.com,8,WH-2,117.32
+P91786,Laptop,68,27,DirectGoods,directgoods@example.com,13,WH-2,28.95
+P53506,Desk,55,69,DirectGoods,directgoods@example.com,17,WH-1,88.55
+P98350,Chair,408,76,DirectGoods,directgoods@example.com,15,WH-2,197.58
+P22357,Tablet,352,34,WarePlus,wareplus@example.com,21,WH-1,181.7
+P51338,Laptop,479,47,SupplyCo,supplyco@example.com,17,WH-1,133.54
+P19078,Phone,74,50,Global Parts,global parts@example.com,14,WH-1,6.57
+P33839,Phone,374,68,Global Parts,global parts@example.com,3,WH-1,165.44
+P50895,Printer,426,75,DirectGoods,directgoods@example.com,11,WH-5,127.55
+P10068,Monitor,103,76,SupplyCo,supplyco@example.com,7,WH-3,115.04
+P27939,Laptop,83,58,WarePlus,wareplus@example.com,6,WH-3,75.91
+P57921,Monitor,64,41,DirectGoods,directgoods@example.com,14,WH-5,189.01
+P65630,Printer,3,97,Global Parts,global parts@example.com,8,WH-2,116.13
+P36001,Monitor,449,67,DirectGoods,directgoods@example.com,19,WH-3,198.55
+P27815,Laptop,247,23,Global Parts,global parts@example.com,10,WH-1,185.85
+P46132,Printer,368,94,SupplyCo,supplyco@example.com,14,WH-1,110.9
+P70743,Tablet,70,31,SupplyCo,supplyco@example.com,16,WH-2,118.56
+P63170,Desk,72,86,Global Parts,global parts@example.com,18,WH-1,50.02
+P88723,Printer,434,96,WarePlus,wareplus@example.com,12,WH-2,35.8
+P84803,Laptop,467,70,SupplyCo,supplyco@example.com,12,WH-2,55.94
+P11146,Desk,135,79,DirectGoods,directgoods@example.com,15,WH-1,64.23
+P96823,Monitor,429,48,SupplyCo,supplyco@example.com,14,WH-4,135.12
+P97323,Tablet,109,84,DirectGoods,directgoods@example.com,8,WH-3,139.91
+P55271,Chair,324,93,WarePlus,wareplus@example.com,3,WH-2,194.56
+P93459,Phone,90,90,WarePlus,wareplus@example.com,7,WH-1,91.27
+P26184,Chair,380,29,SupplyCo,supplyco@example.com,19,WH-1,51.95
+P19396,Tablet,340,48,Global Parts,global parts@example.com,4,WH-4,50.55
+P24625,Tablet,82,98,DirectGoods,directgoods@example.com,7,WH-5,83.69
+P97658,Monitor,0,98,DirectGoods,directgoods@example.com,16,WH-4,178.12
+P58962,Laptop,242,61,SupplyCo,supplyco@example.com,14,WH-5,118.66
+P11634,Laptop,403,99,SupplyCo,supplyco@example.com,7,WH-1,156.72
+P13694,Chair,301,52,SupplyCo,supplyco@example.com,4,WH-4,68.49
+P24284,Desk,92,83,DirectGoods,directgoods@example.com,3,WH-5,21.68
+P86691,Laptop,453,94,Global Parts,global parts@example.com,17,WH-1,8.67
+P10317,Laptop,348,48,SupplyCo,supplyco@example.com,18,WH-1,114.6
+P55359,Printer,128,82,DirectGoods,directgoods@example.com,11,WH-2,169.07
+P12822,Chair,325,100,SupplyCo,supplyco@example.com,16,WH-2,86.86
+P30386,Monitor,230,45,DirectGoods,directgoods@example.com,9,WH-3,96.41
+P60442,Printer,108,45,DirectGoods,directgoods@example.com,15,WH-1,95.59
+P18012,Chair,44,47,DirectGoods,directgoods@example.com,20,WH-5,103.73
+P33125,Tablet,95,56,WarePlus,wareplus@example.com,13,WH-4,77.41
+P66338,Desk,112,69,Global Parts,global parts@example.com,5,WH-1,102.27
+P74881,Laptop,369,97,WarePlus,wareplus@example.com,19,WH-4,143.98
+P68854,Chair,457,59,WarePlus,wareplus@example.com,5,WH-2,40.92
+P12805,Phone,170,92,WarePlus,wareplus@example.com,18,WH-1,11.78
+P68890,Monitor,316,88,SupplyCo,supplyco@example.com,6,WH-2,41.04
+P55573,Phone,234,69,WarePlus,wareplus@example.com,6,WH-3,132.61
+P28941,Phone,319,92,WarePlus,wareplus@example.com,11,WH-3,20.67
+P74048,Printer,99,94,SupplyCo,supplyco@example.com,20,WH-3,159.72
+P21837,Laptop,499,52,SupplyCo,supplyco@example.com,16,WH-3,119.94
+P95262,Tablet,339,22,Global Parts,global parts@example.com,10,WH-1,14.99
+P46566,Desk,172,41,DirectGoods,directgoods@example.com,19,WH-4,133.45
+P18575,Phone,406,41,Global Parts,global parts@example.com,5,WH-2,108.66
+P27056,Monitor,127,50,Global Parts,global parts@example.com,16,WH-2,37.79
+P38066,Tablet,1,62,DirectGoods,directgoods@example.com,7,WH-3,42.53
+P50748,Monitor,13,96,Global Parts,global parts@example.com,9,WH-5,172.49
+P73854,Phone,57,67,WarePlus,wareplus@example.com,10,WH-1,114.89
+P59539,Desk,469,50,SupplyCo,supplyco@example.com,21,WH-3,25.72
+P55993,Tablet,387,98,DirectGoods,directgoods@example.com,13,WH-1,98.29
+P68807,Monitor,440,43,Global Parts,global parts@example.com,12,WH-5,8.98
+P92524,Phone,426,80,DirectGoods,directgoods@example.com,20,WH-2,185.42
+P75730,Phone,317,68,SupplyCo,supplyco@example.com,8,WH-1,152.06
+P15958,Monitor,38,22,DirectGoods,directgoods@example.com,15,WH-1,175.2
+P94619,Printer,178,46,SupplyCo,supplyco@example.com,3,WH-1,126.5
+P76573,Printer,237,65,WarePlus,wareplus@example.com,15,WH-3,174.24
+P47220,Phone,180,92,DirectGoods,directgoods@example.com,8,WH-1,108.19
+P15172,Tablet,56,64,SupplyCo,supplyco@example.com,6,WH-2,30.21
+P36437,Desk,60,74,Global Parts,global parts@example.com,6,WH-3,39.99
+P42339,Desk,324,33,SupplyCo,supplyco@example.com,15,WH-1,125.97
+P38296,Phone,355,60,SupplyCo,supplyco@example.com,15,WH-2,27.41
+P85297,Desk,389,30,WarePlus,wareplus@example.com,16,WH-2,120.88
+P17348,Phone,53,47,WarePlus,wareplus@example.com,15,WH-4,126.32
+P87759,Monitor,273,60,DirectGoods,directgoods@example.com,9,WH-4,32.35
+P95243,Phone,27,57,Global Parts,global parts@example.com,8,WH-4,14.36
+P78852,Printer,357,44,WarePlus,wareplus@example.com,12,WH-4,5.73
+P30445,Monitor,414,25,DirectGoods,directgoods@example.com,20,WH-3,33.65
+P61382,Desk,406,62,DirectGoods,directgoods@example.com,4,WH-1,199.33
+P62508,Printer,422,78,Global Parts,global parts@example.com,13,WH-1,178.68
+P96499,Tablet,37,49,SupplyCo,supplyco@example.com,17,WH-1,159.78
+P95434,Laptop,51,26,WarePlus,wareplus@example.com,19,WH-3,70.77
+P56160,Desk,92,40,SupplyCo,supplyco@example.com,7,WH-2,80.96
+P98900,Monitor,173,95,Global Parts,global parts@example.com,11,WH-3,34.26
+P41511,Printer,293,81,DirectGoods,directgoods@example.com,9,WH-5,117.96
+P33102,Tablet,157,68,Global Parts,global parts@example.com,19,WH-5,90.46
+P36089,Chair,448,53,DirectGoods,directgoods@example.com,13,WH-1,152.67
+P15486,Chair,257,46,WarePlus,wareplus@example.com,21,WH-2,119.23
+P96416,Desk,132,55,DirectGoods,directgoods@example.com,4,WH-3,30.93
+P94252,Printer,462,56,SupplyCo,supplyco@example.com,14,WH-5,69.85
+P27449,Tablet,342,98,Global Parts,global parts@example.com,11,WH-5,24.8
+P25365,Printer,104,37,Global Parts,global parts@example.com,13,WH-1,184.82
+P76322,Tablet,493,64,Global Parts,global parts@example.com,16,WH-4,148.71
+P98377,Tablet,212,95,SupplyCo,supplyco@example.com,9,WH-3,146.98
+P19724,Tablet,337,49,DirectGoods,directgoods@example.com,15,WH-4,15.87
+P81367,Printer,71,50,DirectGoods,directgoods@example.com,5,WH-2,38.58
+P24953,Laptop,89,31,Global Parts,global parts@example.com,13,WH-1,142.34
+P90536,Phone,70,73,DirectGoods,directgoods@example.com,14,WH-2,49.38
+P88190,Monitor,331,85,SupplyCo,supplyco@example.com,15,WH-2,101.27
+P98352,Tablet,357,82,WarePlus,wareplus@example.com,3,WH-1,100.15
+P88713,Laptop,443,61,DirectGoods,directgoods@example.com,18,WH-4,88.96
+P72312,Laptop,442,61,Global Parts,global parts@example.com,7,WH-2,74.94
+P29788,Chair,500,62,Global Parts,global parts@example.com,9,WH-3,141.46
+P15158,Desk,497,74,Global Parts,global parts@example.com,20,WH-1,159.19
+P28444,Monitor,440,47,DirectGoods,directgoods@example.com,17,WH-1,154.55
+P11106,Phone,468,99,SupplyCo,supplyco@example.com,17,WH-3,4.89
+P82832,Phone,484,89,SupplyCo,supplyco@example.com,3,WH-2,121.81
+P52198,Laptop,262,60,SupplyCo,supplyco@example.com,7,WH-3,157.86
+P43155,Tablet,378,64,SupplyCo,supplyco@example.com,11,WH-2,13.9
+P88490,Laptop,166,94,Global Parts,global parts@example.com,7,WH-5,30.06
+P62623,Phone,497,60,Global Parts,global parts@example.com,21,WH-3,114.2
+P94534,Chair,146,39,DirectGoods,directgoods@example.com,5,WH-3,104.28
+P45431,Tablet,363,78,Global Parts,global parts@example.com,9,WH-3,18.68
+P84317,Printer,350,49,Global Parts,global parts@example.com,20,WH-3,136.4
+P86050,Monitor,435,54,SupplyCo,supplyco@example.com,8,WH-3,8.35
+P53962,Desk,419,79,SupplyCo,supplyco@example.com,11,WH-4,182.07
+P63244,Laptop,402,48,Global Parts,global parts@example.com,10,WH-5,74.1
+P89769,Monitor,452,74,Global Parts,global parts@example.com,8,WH-1,83.89
+P40712,Chair,304,54,WarePlus,wareplus@example.com,3,WH-3,43.6
+P49626,Monitor,317,60,SupplyCo,supplyco@example.com,10,WH-5,172.23
+P76119,Printer,408,80,DirectGoods,directgoods@example.com,20,WH-5,140.3
+P83188,Laptop,204,47,WarePlus,wareplus@example.com,20,WH-5,170.32
+P65949,Monitor,459,51,SupplyCo,supplyco@example.com,13,WH-3,185.81
+P48032,Phone,382,67,WarePlus,wareplus@example.com,7,WH-1,48.29
+P34624,Chair,377,39,SupplyCo,supplyco@example.com,20,WH-5,24.68
+P90515,Printer,184,25,Global Parts,global parts@example.com,21,WH-1,34.01
+P87946,Printer,453,92,DirectGoods,directgoods@example.com,4,WH-4,4.31
+P67685,Monitor,193,43,DirectGoods,directgoods@example.com,8,WH-2,21.87
+P81701,Tablet,480,24,Global Parts,global parts@example.com,11,WH-5,16.87
+P51313,Chair,131,63,WarePlus,wareplus@example.com,8,WH-4,122.25
+P20201,Tablet,375,28,Global Parts,global parts@example.com,5,WH-4,41.15
+P42764,Monitor,82,81,SupplyCo,supplyco@example.com,11,WH-4,166.22
+P24215,Tablet,390,79,WarePlus,wareplus@example.com,11,WH-2,82.89
+P77441,Tablet,39,54,WarePlus,wareplus@example.com,7,WH-3,116.23
+P83765,Phone,36,75,SupplyCo,supplyco@example.com,16,WH-4,190.9
+P45950,Desk,462,31,Global Parts,global parts@example.com,9,WH-5,4.55
+P44982,Laptop,184,70,SupplyCo,supplyco@example.com,15,WH-4,81.91
+P93320,Chair,133,82,WarePlus,wareplus@example.com,5,WH-1,137.95
+P26011,Chair,374,43,SupplyCo,supplyco@example.com,17,WH-5,130.47
+P84518,Chair,467,40,DirectGoods,directgoods@example.com,9,WH-2,192.48
+P65254,Phone,74,60,DirectGoods,directgoods@example.com,4,WH-1,170.91
+P88164,Chair,160,36,DirectGoods,directgoods@example.com,13,WH-4,115.58
+P83690,Phone,230,68,WarePlus,wareplus@example.com,7,WH-2,37.04
+P30093,Chair,449,47,SupplyCo,supplyco@example.com,20,WH-3,185.29
+P48697,Laptop,384,29,WarePlus,wareplus@example.com,9,WH-5,192.91
+P39242,Laptop,127,70,WarePlus,wareplus@example.com,20,WH-2,113.72
+P36099,Phone,46,29,DirectGoods,directgoods@example.com,9,WH-3,140.75
+P22765,Printer,32,76,Global Parts,global parts@example.com,15,WH-2,86.61
+P12921,Printer,293,89,Global Parts,global parts@example.com,12,WH-1,145.97
+P48568,Monitor,63,35,Global Parts,global parts@example.com,11,WH-1,153.03
+P92241,Chair,419,23,Global Parts,global parts@example.com,5,WH-2,67.05
+P15267,Phone,454,85,SupplyCo,supplyco@example.com,17,WH-3,6.56
+P10033,Monitor,358,96,WarePlus,wareplus@example.com,19,WH-1,120.24
+P30703,Desk,124,65,WarePlus,wareplus@example.com,5,WH-3,90.8
+P19895,Desk,117,41,WarePlus,wareplus@example.com,18,WH-3,22.58
+P81493,Phone,418,67,Global Parts,global parts@example.com,8,WH-5,119.78
+P53197,Monitor,391,56,DirectGoods,directgoods@example.com,18,WH-5,168.98
+P31415,Chair,268,35,DirectGoods,directgoods@example.com,6,WH-3,34.09
+P49081,Laptop,234,63,DirectGoods,directgoods@example.com,18,WH-4,192.28
+P72372,Printer,498,67,SupplyCo,supplyco@example.com,5,WH-3,137.2
+P62512,Tablet,427,46,SupplyCo,supplyco@example.com,3,WH-4,106.82
+P91587,Printer,88,99,Global Parts,global parts@example.com,17,WH-4,99.75
+P38209,Laptop,229,56,WarePlus,wareplus@example.com,19,WH-5,162.96
+P92342,Chair,6,99,DirectGoods,directgoods@example.com,16,WH-2,69.52
+P71381,Monitor,33,39,Global Parts,global parts@example.com,4,WH-5,89.01
+P32116,Chair,25,96,Global Parts,global parts@example.com,12,WH-3,169.69
+P46384,Printer,461,94,SupplyCo,supplyco@example.com,12,WH-3,154.96
+P43321,Tablet,478,54,WarePlus,wareplus@example.com,11,WH-2,52.86
+P54593,Laptop,26,51,WarePlus,wareplus@example.com,16,WH-5,130.45
+P50154,Desk,230,68,WarePlus,wareplus@example.com,17,WH-2,3.04
+P92355,Chair,495,27,Global Parts,global parts@example.com,13,WH-3,5.04
+P10151,Chair,67,65,WarePlus,wareplus@example.com,12,WH-4,155.16
+P53270,Desk,23,66,SupplyCo,supplyco@example.com,3,WH-1,126.67
+P81815,Monitor,425,78,DirectGoods,directgoods@example.com,10,WH-2,184.33
+P60725,Laptop,172,62,DirectGoods,directgoods@example.com,15,WH-3,42.52
+P38737,Monitor,364,50,SupplyCo,supplyco@example.com,11,WH-1,165.7
+P60732,Tablet,291,44,Global Parts,global parts@example.com,21,WH-2,161.43
+P42012,Laptop,220,36,WarePlus,wareplus@example.com,15,WH-3,126.97
+P90590,Laptop,275,38,SupplyCo,supplyco@example.com,21,WH-5,87.66
+P61234,Phone,101,81,SupplyCo,supplyco@example.com,6,WH-1,53.16
+P54928,Tablet,19,100,WarePlus,wareplus@example.com,11,WH-3,172.82
+P51227,Tablet,294,78,WarePlus,wareplus@example.com,13,WH-4,87.86
+P51951,Monitor,217,20,WarePlus,wareplus@example.com,17,WH-2,21.52
+P52133,Desk,368,59,Global Parts,global parts@example.com,11,WH-3,80.07
+P89046,Chair,486,34,SupplyCo,supplyco@example.com,12,WH-5,85.9
+P11964,Tablet,96,44,WarePlus,wareplus@example.com,15,WH-3,86.87
+P99070,Desk,100,87,SupplyCo,supplyco@example.com,15,WH-5,145.15
+P75593,Printer,286,70,WarePlus,wareplus@example.com,9,WH-2,94.73
+P93051,Laptop,282,74,DirectGoods,directgoods@example.com,6,WH-1,26.62
+P55481,Monitor,407,97,Global Parts,global parts@example.com,4,WH-1,33.81
+P70755,Printer,248,71,SupplyCo,supplyco@example.com,15,WH-1,13.94
+P17694,Printer,285,47,SupplyCo,supplyco@example.com,17,WH-5,55.89
+P23051,Laptop,227,59,WarePlus,wareplus@example.com,4,WH-1,146.75
+P18983,Printer,430,31,Global Parts,global parts@example.com,14,WH-1,83.2
+P53340,Printer,495,91,Global Parts,global parts@example.com,7,WH-2,56.63
+P21967,Laptop,50,47,Global Parts,global parts@example.com,13,WH-2,175.1
+P75535,Printer,356,29,Global Parts,global parts@example.com,11,WH-5,171.48
+P58587,Phone,115,32,WarePlus,wareplus@example.com,21,WH-5,187.89
+P54665,Chair,307,29,WarePlus,wareplus@example.com,7,WH-5,27.86
+P89326,Tablet,469,45,Global Parts,global parts@example.com,18,WH-5,146.4
+P94306,Phone,338,81,Global Parts,global parts@example.com,3,WH-4,179.36
+P74136,Monitor,407,63,DirectGoods,directgoods@example.com,17,WH-3,104.59
+P19622,Phone,230,87,WarePlus,wareplus@example.com,11,WH-2,27.43
+P91269,Desk,323,63,Global Parts,global parts@example.com,16,WH-4,152.49
+P97427,Tablet,427,41,SupplyCo,supplyco@example.com,16,WH-4,199.34
+P81811,Phone,390,73,DirectGoods,directgoods@example.com,6,WH-3,48.68
+P88340,Phone,117,40,WarePlus,wareplus@example.com,11,WH-3,116.57
+P53573,Tablet,331,81,Global Parts,global parts@example.com,11,WH-5,162.51
+P69142,Phone,500,50,Global Parts,global parts@example.com,21,WH-3,49.58
+P53154,Tablet,57,89,DirectGoods,directgoods@example.com,17,WH-2,17.64
+P56159,Phone,102,89,Global Parts,global parts@example.com,19,WH-2,31.12
+P87175,Laptop,388,81,SupplyCo,supplyco@example.com,15,WH-4,156.7
+P95235,Chair,120,26,DirectGoods,directgoods@example.com,18,WH-3,169.54
+P25309,Phone,133,92,WarePlus,wareplus@example.com,18,WH-5,30.42
+P26699,Laptop,52,27,Global Parts,global parts@example.com,5,WH-2,114.05
+P36617,Printer,68,46,DirectGoods,directgoods@example.com,8,WH-4,114.28
+P50875,Printer,125,75,WarePlus,wareplus@example.com,3,WH-3,19.35
+P36962,Laptop,261,32,WarePlus,wareplus@example.com,4,WH-4,169.15
+P31938,Desk,218,90,SupplyCo,supplyco@example.com,9,WH-2,114.43
+P70967,Desk,290,99,WarePlus,wareplus@example.com,6,WH-5,61.78
+P93014,Printer,48,31,DirectGoods,directgoods@example.com,12,WH-3,165.02
+P78255,Desk,380,50,WarePlus,wareplus@example.com,5,WH-4,65.42
+P74004,Laptop,369,53,WarePlus,wareplus@example.com,17,WH-1,164.41
+P66696,Phone,119,44,WarePlus,wareplus@example.com,17,WH-1,25.82
+P42630,Chair,101,38,Global Parts,global parts@example.com,17,WH-1,8.77
+P62969,Tablet,294,47,WarePlus,wareplus@example.com,13,WH-4,64.73
+P76095,Desk,457,51,Global Parts,global parts@example.com,14,WH-4,58.57
+P81902,Monitor,386,67,WarePlus,wareplus@example.com,10,WH-5,78.09
+P18361,Printer,246,52,Global Parts,global parts@example.com,16,WH-3,22.13
+P41325,Tablet,103,65,Global Parts,global parts@example.com,19,WH-2,87.99
+P52117,Laptop,27,74,Global Parts,global parts@example.com,14,WH-5,41.8
+P56750,Tablet,145,55,Global Parts,global parts@example.com,19,WH-4,87.22
+P61220,Chair,74,98,Global Parts,global parts@example.com,9,WH-5,142.01
+P90552,Printer,297,52,DirectGoods,directgoods@example.com,5,WH-2,13.98
+P42422,Monitor,388,99,DirectGoods,directgoods@example.com,3,WH-4,31.51
+P74719,Chair,19,93,DirectGoods,directgoods@example.com,21,WH-3,65.28
+P11499,Desk,438,39,Global Parts,global parts@example.com,14,WH-5,62.75
+P57241,Desk,9,83,SupplyCo,supplyco@example.com,7,WH-5,15.86
+P64035,Tablet,221,100,SupplyCo,supplyco@example.com,10,WH-2,41.02
+P39228,Tablet,293,40,Global Parts,global parts@example.com,9,WH-3,112.22
+P82659,Chair,4,96,Global Parts,global parts@example.com,16,WH-5,181.05
+P99689,Desk,248,90,Global Parts,global parts@example.com,11,WH-3,124.22
+P20266,Desk,277,48,DirectGoods,directgoods@example.com,4,WH-1,198.14
+P76317,Printer,481,27,Global Parts,global parts@example.com,15,WH-2,125.55
+P72647,Desk,328,68,WarePlus,wareplus@example.com,4,WH-4,179.98
+P28827,Monitor,269,95,Global Parts,global parts@example.com,9,WH-2,157.72
+P41733,Laptop,481,23,SupplyCo,supplyco@example.com,3,WH-3,132.77
+P24172,Monitor,44,94,DirectGoods,directgoods@example.com,11,WH-4,135.66
+P59517,Monitor,333,25,SupplyCo,supplyco@example.com,16,WH-1,95.6
+P70806,Laptop,401,54,DirectGoods,directgoods@example.com,19,WH-4,75.75
+P61019,Tablet,147,23,DirectGoods,directgoods@example.com,14,WH-3,22.04
+P64724,Desk,257,47,DirectGoods,directgoods@example.com,10,WH-1,122.44
+P69729,Printer,333,68,SupplyCo,supplyco@example.com,4,WH-5,79.87
+P43944,Printer,82,54,DirectGoods,directgoods@example.com,8,WH-3,38.44
+P10605,Chair,456,20,DirectGoods,directgoods@example.com,17,WH-4,119.98
+P65681,Printer,425,76,DirectGoods,directgoods@example.com,8,WH-3,34.79
+P71902,Desk,32,20,WarePlus,wareplus@example.com,6,WH-2,148.51
+P35582,Printer,203,45,SupplyCo,supplyco@example.com,4,WH-4,10.71
+P45427,Tablet,464,55,Global Parts,global parts@example.com,8,WH-2,113.33
+P44744,Monitor,128,98,DirectGoods,directgoods@example.com,4,WH-3,19.26
+P17363,Tablet,489,89,WarePlus,wareplus@example.com,14,WH-4,93.52
+P76950,Phone,310,94,SupplyCo,supplyco@example.com,7,WH-3,129.42
+P46851,Monitor,378,83,WarePlus,wareplus@example.com,21,WH-2,65.14
+P68592,Phone,52,32,Global Parts,global parts@example.com,15,WH-1,137.58
+P73943,Desk,205,67,DirectGoods,directgoods@example.com,18,WH-5,156.22
+P88285,Tablet,215,83,SupplyCo,supplyco@example.com,7,WH-2,127.35
+P35177,Printer,307,52,SupplyCo,supplyco@example.com,14,WH-5,159.83
+P96085,Printer,22,76,WarePlus,wareplus@example.com,4,WH-1,169.81
+P62647,Chair,269,82,WarePlus,wareplus@example.com,19,WH-1,196.27
+P74075,Monitor,93,37,SupplyCo,supplyco@example.com,8,WH-5,191.94
+P40699,Printer,73,40,WarePlus,wareplus@example.com,8,WH-4,177.9
+P51535,Laptop,194,80,DirectGoods,directgoods@example.com,9,WH-1,36.24
+P85952,Laptop,403,70,WarePlus,wareplus@example.com,17,WH-1,181.71
+P52181,Chair,191,31,WarePlus,wareplus@example.com,9,WH-5,83.41
+P49223,Monitor,139,23,Global Parts,global parts@example.com,5,WH-3,160.01
+P33041,Monitor,160,48,SupplyCo,supplyco@example.com,13,WH-3,114.95
+P19774,Tablet,106,67,DirectGoods,directgoods@example.com,19,WH-2,197.68
+P50087,Monitor,299,21,SupplyCo,supplyco@example.com,3,WH-3,100.05
+P17253,Chair,444,46,DirectGoods,directgoods@example.com,20,WH-2,129.32
+P59489,Phone,247,56,DirectGoods,directgoods@example.com,5,WH-2,143.94
+P47924,Desk,142,83,DirectGoods,directgoods@example.com,9,WH-3,170.89
+P25430,Desk,66,24,DirectGoods,directgoods@example.com,6,WH-5,182.92
+P21384,Desk,32,85,SupplyCo,supplyco@example.com,12,WH-2,50.27
+P28789,Desk,0,98,DirectGoods,directgoods@example.com,16,WH-1,135.5
+P34425,Desk,228,49,DirectGoods,directgoods@example.com,4,WH-4,197.42
+P37055,Tablet,205,38,WarePlus,wareplus@example.com,18,WH-5,158.4
+P79740,Tablet,177,31,DirectGoods,directgoods@example.com,14,WH-3,150.27
+P99821,Tablet,126,95,DirectGoods,directgoods@example.com,7,WH-1,159.91
+P31299,Phone,410,93,Global Parts,global parts@example.com,8,WH-3,21.58
+P73596,Laptop,162,78,DirectGoods,directgoods@example.com,8,WH-2,59.73
+P28623,Phone,142,40,WarePlus,wareplus@example.com,10,WH-3,29.98
+P93598,Monitor,340,58,DirectGoods,directgoods@example.com,18,WH-4,177.05
+P35742,Tablet,445,30,Global Parts,global parts@example.com,18,WH-2,189.22
+P71416,Tablet,59,89,WarePlus,wareplus@example.com,10,WH-1,130.96
+P94901,Monitor,119,61,WarePlus,wareplus@example.com,10,WH-4,112.37
+P20634,Printer,331,93,DirectGoods,directgoods@example.com,19,WH-1,19.41
+P27561,Chair,395,31,Global Parts,global parts@example.com,11,WH-5,26.6
+P69318,Chair,293,35,WarePlus,wareplus@example.com,20,WH-2,148.73
+P28418,Chair,52,54,WarePlus,wareplus@example.com,21,WH-3,193.3
+P54746,Laptop,189,40,Global Parts,global parts@example.com,16,WH-4,181.46
+P90523,Printer,42,36,SupplyCo,supplyco@example.com,17,WH-2,196.85
+P85076,Phone,410,27,DirectGoods,directgoods@example.com,5,WH-1,129.74
+P91486,Desk,97,47,WarePlus,wareplus@example.com,14,WH-1,184.25
+P31274,Tablet,6,53,Global Parts,global parts@example.com,4,WH-1,74.74
+P35025,Tablet,394,29,SupplyCo,supplyco@example.com,8,WH-3,119.03
+P79704,Tablet,289,47,SupplyCo,supplyco@example.com,15,WH-2,37.59
+P23975,Chair,96,25,DirectGoods,directgoods@example.com,9,WH-3,148.58
+P84276,Phone,36,86,SupplyCo,supplyco@example.com,4,WH-5,182.76
+P56541,Phone,82,26,WarePlus,wareplus@example.com,9,WH-2,24.11
+P32595,Chair,471,74,WarePlus,wareplus@example.com,19,WH-5,185.92
+P83511,Laptop,12,61,Global Parts,global parts@example.com,16,WH-1,9.28
+P76524,Printer,119,65,WarePlus,wareplus@example.com,17,WH-2,18.14
+P74344,Tablet,220,22,DirectGoods,directgoods@example.com,15,WH-5,130.05
+P38471,Phone,234,44,SupplyCo,supplyco@example.com,5,WH-4,50.51
+P49378,Tablet,241,72,WarePlus,wareplus@example.com,5,WH-4,186.5
+P44309,Chair,444,81,Global Parts,global parts@example.com,15,WH-4,3.86
+P78170,Desk,266,30,DirectGoods,directgoods@example.com,18,WH-3,99.64
+P38940,Printer,72,24,WarePlus,wareplus@example.com,18,WH-1,22.11
+P53210,Tablet,310,29,SupplyCo,supplyco@example.com,18,WH-1,111.67
+P63507,Phone,239,61,Global Parts,global parts@example.com,4,WH-2,197.31
+P28571,Monitor,479,78,WarePlus,wareplus@example.com,21,WH-4,130.76
+P22687,Phone,198,21,WarePlus,wareplus@example.com,14,WH-3,74.3
+P41142,Laptop,383,90,Global Parts,global parts@example.com,20,WH-4,154.76
+P31670,Printer,55,87,SupplyCo,supplyco@example.com,3,WH-5,27.69
+P81888,Phone,421,36,SupplyCo,supplyco@example.com,9,WH-4,166.82
+P36077,Laptop,348,20,SupplyCo,supplyco@example.com,7,WH-2,140.53
+P59935,Monitor,174,44,SupplyCo,supplyco@example.com,4,WH-2,168.76
+P45647,Phone,342,36,DirectGoods,directgoods@example.com,4,WH-4,56.35
+P82285,Chair,439,58,DirectGoods,directgoods@example.com,18,WH-2,104.18
+P68793,Chair,65,25,DirectGoods,directgoods@example.com,18,WH-5,187.89
+P77804,Monitor,420,48,SupplyCo,supplyco@example.com,3,WH-2,85.74
+P31932,Desk,338,69,DirectGoods,directgoods@example.com,11,WH-3,130.62
+P45183,Phone,493,50,WarePlus,wareplus@example.com,16,WH-3,114.8
+P63200,Laptop,24,46,Global Parts,global parts@example.com,14,WH-1,150.9
+P96075,Phone,362,97,Global Parts,global parts@example.com,8,WH-1,13.07
+P26158,Desk,278,97,DirectGoods,directgoods@example.com,3,WH-1,58.03
+P96306,Desk,421,100,WarePlus,wareplus@example.com,21,WH-4,51.69
+P13341,Desk,449,52,WarePlus,wareplus@example.com,21,WH-4,168.89
+P27265,Phone,361,92,WarePlus,wareplus@example.com,6,WH-5,78.41
+P52393,Laptop,258,62,WarePlus,wareplus@example.com,18,WH-1,40.72
+P77616,Tablet,330,75,DirectGoods,directgoods@example.com,11,WH-1,33.4
+P98302,Tablet,83,88,SupplyCo,supplyco@example.com,12,WH-1,135.39
+P22089,Monitor,186,41,WarePlus,wareplus@example.com,17,WH-4,54.66
+P38229,Desk,63,71,DirectGoods,directgoods@example.com,6,WH-4,152.72
+P75961,Laptop,494,60,WarePlus,wareplus@example.com,3,WH-2,160.39
+P53867,Monitor,173,41,DirectGoods,directgoods@example.com,18,WH-1,172.6
+P73097,Phone,146,64,SupplyCo,supplyco@example.com,8,WH-3,178.01
+P95990,Tablet,8,84,SupplyCo,supplyco@example.com,5,WH-2,30.68
+P46348,Printer,337,93,WarePlus,wareplus@example.com,3,WH-5,4.2
+P28664,Phone,448,69,WarePlus,wareplus@example.com,10,WH-5,108.09
+P54983,Phone,319,36,DirectGoods,directgoods@example.com,3,WH-1,70.81
+P32617,Phone,162,84,DirectGoods,directgoods@example.com,4,WH-1,109.81
+P27192,Chair,466,66,WarePlus,wareplus@example.com,16,WH-1,162.41
+P20294,Desk,87,91,WarePlus,wareplus@example.com,18,WH-2,10.63
+P24029,Laptop,333,20,Global Parts,global parts@example.com,16,WH-5,117.94
+P82334,Laptop,63,100,DirectGoods,directgoods@example.com,13,WH-2,171.33
+P26345,Laptop,253,49,WarePlus,wareplus@example.com,19,WH-4,16.79
+P79895,Phone,453,88,Global Parts,global parts@example.com,21,WH-2,128.54
+P21813,Monitor,3,57,WarePlus,wareplus@example.com,18,WH-3,87.48
+P41559,Phone,227,21,DirectGoods,directgoods@example.com,21,WH-3,58.75
+P15109,Tablet,307,29,DirectGoods,directgoods@example.com,12,WH-3,37.94
+P15948,Printer,119,60,DirectGoods,directgoods@example.com,3,WH-2,187.62
+P16168,Desk,419,27,DirectGoods,directgoods@example.com,16,WH-4,179.1
+P29123,Tablet,48,27,WarePlus,wareplus@example.com,18,WH-3,61.23
+P45769,Chair,454,53,SupplyCo,supplyco@example.com,19,WH-3,70.62
+P48138,Phone,179,59,SupplyCo,supplyco@example.com,8,WH-5,63.73
+P14527,Printer,42,26,DirectGoods,directgoods@example.com,3,WH-2,155.2
+P92040,Laptop,288,38,DirectGoods,directgoods@example.com,16,WH-5,95.74
+P61657,Phone,178,67,WarePlus,wareplus@example.com,11,WH-4,20.31
+P41681,Monitor,267,24,SupplyCo,supplyco@example.com,11,WH-3,138.83
+P23366,Chair,392,91,WarePlus,wareplus@example.com,21,WH-2,100.38
+P76692,Tablet,194,81,WarePlus,wareplus@example.com,19,WH-4,74.51
+P81800,Chair,150,82,WarePlus,wareplus@example.com,12,WH-2,54.41
+P14427,Laptop,230,76,WarePlus,wareplus@example.com,18,WH-5,164.84
+P36445,Chair,345,60,Global Parts,global parts@example.com,12,WH-3,73.89
+P57789,Laptop,115,90,DirectGoods,directgoods@example.com,16,WH-3,148.41
+P79254,Tablet,423,68,DirectGoods,directgoods@example.com,20,WH-4,111.14
+P74968,Desk,396,87,SupplyCo,supplyco@example.com,6,WH-5,125.49
+P53255,Printer,166,68,Global Parts,global parts@example.com,18,WH-5,54.96
+P41997,Phone,46,71,SupplyCo,supplyco@example.com,17,WH-1,100.69
+P73771,Phone,414,54,DirectGoods,directgoods@example.com,8,WH-3,129.54
+P84492,Laptop,270,88,DirectGoods,directgoods@example.com,10,WH-3,164.9
+P17238,Printer,273,94,WarePlus,wareplus@example.com,14,WH-5,37.29
+P48056,Laptop,378,80,Global Parts,global parts@example.com,8,WH-1,46.06
+P21308,Desk,51,73,DirectGoods,directgoods@example.com,9,WH-2,117.44
+P91909,Tablet,386,62,DirectGoods,directgoods@example.com,21,WH-5,158.38
+P35915,Monitor,131,82,Global Parts,global parts@example.com,16,WH-3,179.08
+P18451,Monitor,218,34,SupplyCo,supplyco@example.com,9,WH-4,150.89
+P60419,Monitor,111,60,DirectGoods,directgoods@example.com,12,WH-1,124.11
+P69171,Printer,411,96,SupplyCo,supplyco@example.com,13,WH-2,5.3
+P84649,Laptop,184,34,Global Parts,global parts@example.com,3,WH-1,81.57
+P61528,Laptop,479,36,DirectGoods,directgoods@example.com,14,WH-3,90.22
+P25204,Chair,186,27,Global Parts,global parts@example.com,3,WH-4,146.95
+P11509,Printer,240,27,SupplyCo,supplyco@example.com,6,WH-4,153.49
+P76776,Phone,307,29,WarePlus,wareplus@example.com,5,WH-4,116.3
+P19859,Desk,386,92,DirectGoods,directgoods@example.com,15,WH-1,43.5
