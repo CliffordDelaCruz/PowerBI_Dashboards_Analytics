@@ -38,7 +38,7 @@ This is to show a sample loading of data from SQL database to a pandas dataframe
 <img width="1916" height="932" alt="code_02" src="https://github.com/user-attachments/assets/1b3a2627-dfca-49fa-9aaf-32732c21af62" />
 
 #### Skills used:
-1. SQL
+1. SQL - Loading retail data taken from Kaggle (written guide provided)
 2. Data exploration and analysis - used python
 
 Reference folder: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/tree/main/retail%20sql%20pandas
