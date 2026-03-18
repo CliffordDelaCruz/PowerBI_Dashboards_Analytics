@@ -1,3 +1,22 @@
+# Projects
+### Auckland Train service status logger  
+link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/tree/main/auckland_transport_trip_status_logger  
+
+#### Objective  
+The objective of this project is to capture and analyse instances where Auckland’s train services (Eastern, Southern, Onehunga, and Western lines) stop operating due to unplanned faults or scheduled maintenance. As a regular commuter, I aim to build a dataset that helps explain the frequency and timing of these disruptions, particularly those occurring during peak office hours. The intention is not to criticise Auckland Transport, but to understand the underlying patterns and identify how often these service interruptions occur.  
+
+#### Challenges encountered and solution  
+Initially, I explored the possibility of extracting disruption information through web scraping from the Auckland Transport train line status page. However, this approach was not feasible. The website relies on internal API endpoints that are not publicly accessible, meaning the data displayed on the site cannot be retrieved programmatically.  
+
+The Auckland Transport public API also presents limitations. It does not provide a direct feed of line level disruptions or maintenance shutdowns. Instead, the real time API only reports information at the trip level—specifically, whether a trip is running or cancelled. To work around this constraint, I ingest the full real time feed and determine whether a train line has active trips. If a line has no active trips, it is classified as “stopped.”  
+
+To detect partial closures (for example, when only a segment such as Puhinui–Pukekohe is closed for maintenance), each trip is evaluated based on its start and end points. By checking the trip headsigns, I can determine whether the full route is operating or whether only part of the line is active.  
+
+#### Skills used:  
+1. Python (libraries: requests, logging, sqlalchemy, datetime)
+2. SQL
+3. API handling (Auckland Transport API)  
+
 # Power BI Service
 ### Guide: Accessing Oracle DB table using Power BI via Dataflow
 link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/blob/main/How%20to%20access%20Oracle%20DB%20from%20PowerBI_generic.pdf
