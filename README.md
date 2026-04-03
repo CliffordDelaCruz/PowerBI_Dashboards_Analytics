@@ -1,4 +1,32 @@
 # Projects
+### Auckland Train service status logger (Azure hosted)  
+link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/tree/main/at_train_status_azure  
+
+#### Objective  
+The objective of this project is to capture and analyse instances where Auckland’s train services—specifically the Eastern, Southern, Onehunga, and Western lines—stop operating due to unplanned faults or scheduled maintenance. As a regular commuter, I aim to build a dataset that highlights the frequency and timing of these disruptions, with particular focus on those occurring during peak office hours. The goal is not to criticise Auckland Transport, but to understand underlying patterns and gain clearer visibility into how often service interruptions occur.
+
+This phase of the project extends the original application, which previously ran on a local machine and stored data in a local database. The enhanced version now leverages a MySQL server hosted in Azure, with data collection automated through an Azure Function App written in Python. This cloud-based architecture enables reliable, scheduled execution and centralised storage, supporting long-term analysis and improved scalability.  
+
+#### Challenges encountered
+Initially, I explored the possibility of extracting disruption information through web scraping from the Auckland Transport train line status page. However, this approach was not feasible. The website relies on internal API endpoints that are not publicly accessible, meaning the data displayed on the site cannot be retrieved programmatically.
+
+The Auckland Transport public API also presents limitations. It does not provide a direct feed of line level disruptions or maintenance shutdowns. Instead, the real time API only reports information at the trip level—specifically, whether a trip is running or cancelled. To work around this constraint, I ingest the full real time feed and determine whether a train line has active trips. If a line has no active trips, it is classified as “stopped.”
+
+To detect partial closures (for example, when only a segment such as Puhinui–Pukekohe is closed for maintenance), each trip is evaluated based on its start and end points. By checking the trip headsigns, I can determine whether the full route is operating or whether only part of the line is active.
+
+After completing the enhancements and successfully running the program on a local machine, the next challenge was to transition the solution into a cloud based architecture. This required working through three key tasks:  
+1.	Hosting a MySQL database in Azure and establishing a secure connection to it.  
+2.	Modifying the existing Python application so it could run as an Azure Function, including adapting the structure, dependencies, and environment variable handling.  
+3.	Deploying the function and configuring the necessary settings to ensure the Azure Function App could authenticate with and write data to the Azure hosted MySQL database.
+
+#### Skills used:  
+1. Python (libraries: requests, logging, sqlalchemy, datetime)
+2. SQL
+3. API handling (Auckland Transport API)
+4. Azure setup (MySQL, Azure Function Apps)
+5. Program deployment using VSCode
+6. Systems Analysis, Documentation
+
 ### Auckland Train service status logger  
 link: https://github.com/CliffordDelaCruz/PowerBI_Dashboards_Analytics/tree/main/auckland_transport_trip_status_logger  
 
