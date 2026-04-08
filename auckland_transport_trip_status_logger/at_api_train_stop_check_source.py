@@ -1,4 +1,5 @@
 import os
+import pytz
 import logging
 from datetime import datetime
 import requests
@@ -194,14 +195,24 @@ def classify_lines(entities):
 
     return results
 
+def is_within_nz_window(start_hour=5, end_hour=23):
+    nz = pytz.timezone("Pacific/Auckland")
+    now_nz = datetime.now(nz)
+    hour = now_nz.hour
+    return start_hour <= hour < end_hour
+
 # -----------------------------
 # MAIN EXECUTION
 # -----------------------------
 if __name__ == "__main__":
-    entities = fetch_tripupdates()
-    status = classify_lines(entities)
+    if not is_within_nz_window():
+        logging.info("Outside NZ time window (5AM–11PM). Skipping execution.")
+    else:
+        logging.info("Within NZ time window. Running extraction.")
+        entities = fetch_tripupdates()
+        status = classify_lines(entities)
 
-    print("Train Line Status:")
-    for line, state in status.items():
-        print(f"{line}: {state}")
-        logging.info(f"{line}: {state}")
+        print("Train Line Status:")
+        for line, state in status.items():
+            print(f"{line}: {state}")
+            logging.info(f"{line}: {state}")
